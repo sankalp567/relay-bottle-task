@@ -1,0 +1,10 @@
+{
+  "title": "Bottle task",
+  "steps": [
+    { "kind": "PickBottle", "text": "Pick up bottle A", "bottle": "A", "glass": "", "pourFraction": 0 },
+    { "kind": "OpenCap", "text": "Open the cap", "bottle": "A", "glass": "", "pourFraction": 0 },
+    { "kind": "Pour", "text": "Pour into glass 1, up to the line", "bottle": "A", "glass": "1", "pourFraction": 0.5 },
+    { "kind": "CloseCap", "text": "Close the cap", "bottle": "A", "glass": "", "pourFraction": 0 },
+    { "kind": "PutBack", "text": "Put bottle A back on its spot", "bottle": "A", "glass": "", "pourFraction": 0 }
+  ]
+}

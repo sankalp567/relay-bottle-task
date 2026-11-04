@@ -1,0 +1,14 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/RELAY_Data/
+/.vscode/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+.DS_Store
